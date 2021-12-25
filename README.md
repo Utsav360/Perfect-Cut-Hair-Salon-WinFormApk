@@ -1,2 +1,3 @@
 # Perfect-Cut-Hair-Salon-WinFormApk
-GUI interface to determine the price of hair salon using Windows Forms Application
+
+Perfect Cut Hair Salon is a GUI based Windows Forms Application made using C#
